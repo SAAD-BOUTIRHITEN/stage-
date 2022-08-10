@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.c {
+    height: 100vh;
+    width: 100%;
+    background: url(suw.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+    font-weight: 20px;
+    text-align: center;
+    padding-top: 110px;
+    font-size: 35px;
+}
+
+span {
+    color: green;
+    font-size: 50px;
+}
+
+img {
+    padding-left: 600px;
+}
+
+.button {
+    position: relative;
+    background-color: rgb(11, 219, 247);
+    color: rgb(255, 3, 3);
+    font-weight: 300;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 15px 39px;
+    top: 40px;
+    right: 139px;
+    border-radius: 30px;
+
+}
+
+.button:hover {
+    background-color: transparent;
+    border: 2px solid #f9004d;
+    cursor: pointer;
+}
